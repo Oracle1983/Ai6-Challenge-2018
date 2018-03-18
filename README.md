@@ -12,9 +12,9 @@ This project propose to train a CNN with the ability to foremost detect and pred
 
 ## Conclusion and Future Work
 
-The model achieved a highest overall accuracy of 93.75% and the predictive performance of the classes are as follows:
+The model achieved a 100% accuracy on the test set and highest overall accuracy of 93.75% on the validation set. The predictive performance of the classes for the validation set are as follows:
 - Doctor Acc:90.48%
-- Nurse Acc:88.89%
+- Nurse Acc:91.67%%
 - Patient Acc:97.44%
 
 Considering the reasonable accuracy of the model, the author suggests its deployment in the areas of potential applications (gathered from feedback from clinicians and nurses):
