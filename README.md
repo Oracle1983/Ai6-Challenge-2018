@@ -17,7 +17,7 @@ The model achieved a 100% accuracy on the test set and highest overall accuracy 
 - Nurse Acc:91.67%%
 - Patient Acc:97.44%
 
-Considering the reasonable accuracy of the model, the author suggests its deployment in the areas of potential applications (gathered from feedback from clinicians and nurses):
+Considering the reasonable accuracy of the model, the author suggests its deployment in these potential applications (gathered from feedback from clinicians and nurses):
 - Patient monitoring/ Community care – Falls, sleep, vitals, motion/activity (rehab)
 - Presence of visitors with patients
 - Drink/food intake of patients
