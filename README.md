@@ -1,6 +1,6 @@
 # Project Title:
 
-# Identify Patients and Health Care Workers Using Transfer Learning on a Pre-trained Convolutional Neural Network¶
+# Identify Patients and Health Care Workers Using Transfer Learning on a Pre-trained Convolution Neural Network¶
 
 Author: Kelvin Tham Kum Hong
 
